@@ -4,4 +4,4 @@ GitHub ActionでECS(Fargate)環境へコンテナをデプロイするデモリ�
 
 [GitHub ActionsからサクッとFargateにデプロイしてみた](https://dev.classmethod.jp/cloud/aws/github-actions-fargate-deploy/)
 
-.
+..
